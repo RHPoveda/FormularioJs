@@ -1,4 +1,4 @@
-# Formulario Envio Transferencia JS [:pushpin: **Visitar**](https://rhpoveda.github.io/TiendaJs/)
+# Formulario Envio Transferencia JS [:pushpin: **Visitar**](https://rhpoveda.github.io/FormularioJs/)
 
 ## Proyecto 03 - Creado como parte del entranamiento recibido durante el curso de JavaScript
 
